@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://repletively-sunlit-stefan.ngrok-free.dev";
+const API_BASE_URL = "https://banausic-kacey-easily.ngrok-free.dev";
 
 export async function checkApiHealth(): Promise<boolean> {
   try {
